@@ -1,7 +1,7 @@
 <!-- ![Wellcome Gif](./gif/pjr.gif) -->
 
 <p align="center">
-<img src="./gif/giphy.webp" alt="Wellcome" width="100%">
+<img src="./gif/pjr.gif" alt="Wellcome" width="100%">
 </p>
 
 <p align="center">
