@@ -17,14 +17,14 @@
 </p>
 
 <p align="center">
-    <a href="https://www.w3schools.com/html/" target="_blank"><img src="./icon/html-5.png"></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="./icon/css3.png"></a>
-    <a href="https://javascript.info/" target="_blank"><img src="./icon/javascript.png"></a>
-    <a href="https://code.visualstudio.com/" target="_blank"><img src="./icon/visual-studio-code.png"></a>
+    <a href="https://www.w3schools.com/html/"><img src="./icon/html-5.png"></a>
+    <a href="https://www.w3schools.com/css/"><img src="./icon/css3.png"></a>
+    <a href="https://javascript.info/"><img src="./icon/javascript.png"></a>
+    <a href="https://code.visualstudio.com/"><img src="./icon/visual-studio-code.png"></a>
 </p>
 
 <p align="center">
-    <a href="https://www.instagram.com/dev_masen/" target="_blank"><img src="./icon/instagram.svg" width="48px"></a>
-    <a href="https://www.linkedin.com/in/m-hossein-mohseni-794a062bb" target="_blank"><img src="./icon/linked-in.svg" width="48px"></a>
-    <a href="https://t.me/Ma3eN_M"><img src="./icon/telegram.svg" width="48px" target="_blank"></a>
+    <a href="https://www.instagram.com/dev_masen/"><img src="./icon/instagram.svg" width="48px"></a>
+    <a href="https://www.linkedin.com/in/m-hossein-mohseni-794a062bb"><img src="./icon/linked-in.svg" width="48px"></a>
+    <a href="https://t.me/Ma3eN_M"><img src="./icon/telegram.svg" width="48px"></a>
 </p>
