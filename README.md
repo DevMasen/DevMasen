@@ -1,6 +1,6 @@
-> # Hey There <img src="./gif/shaking-hand.gif" width="28px">, I'm Mohamad Hosein Mohseni
+> # Hey There <img src="./gif/shaking-hand.gif" width="26px">, I'm Mohamad Hosein Mohseni
 
-## <img src="./icon/icons8-about-me-96.png" width="28px"> About me
+## <img src="./icon/icons8-about-me-96.png" width="20px"> About me
 
 Hello! I'm Mohammad Hosein (call me Masen😉), a passionate junior front-end developer and computer engineering student from Kerman Province in Iran. I love working on websites and build practical and beautiful UI/UX.
 
@@ -22,7 +22,7 @@ I am still junior and don't know much, but I learned basics very well. if you ha
 
 Thanks for visiting my profile! 😊
 
-## <img src="./icon/icons8-tools-96.png" width="28px"> Languages and Tools
+## <img src="./icon/icons8-tools-96.png" width="20px"> Languages and Tools
 
 <p align="center">
     <a href="https://code.visualstudio.com/"><img src="./icon/icons8-visual-studio-code-2019-100.png" width="48px"></a>
@@ -35,7 +35,7 @@ Thanks for visiting my profile! 😊
 
 <!-- ## 📖 Currently Learning ... -->
 
-## <img src="./icon/icons8-stats-64.png" width="28px"> Account Stats
+## <img src="./icon/icons8-stats-64.png" width="20px"> Account Stats
 
 <p align="center">
 <a href="https://github.com/DevMasen">
