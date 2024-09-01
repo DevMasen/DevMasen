@@ -7,7 +7,6 @@
     <a href="https://code.visualstudio.com/"><img src="./icon/icons8-visual-studio-code-2019-100.png" width="48px"></a>
     <a href="https://www.w3schools.com/html/"><img src="./icon/icons8-html-5-96.png" width="48px"></a>
     <a href="https://www.w3schools.com/css/"><img src="./icon/icons8-css3-96.png" width="48px"></a>
-    <a href="https://javascript.info/"><img src=""></a>
     <a href="https://javascript.info/"><img src="./icon/icons8-javascript-96.png" width="48px"></a>
     <a href="https://git-scm.com/"><img src="./icon/icons8-git-96.png" width="48px"></a>
     <a href="https://github.com/"><img src="./icon/icons8-github-96.png" width="48px"></a>
