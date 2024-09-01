@@ -1,14 +1,14 @@
 > # Hey There <img src="./gif/shaking-hand.gif" width="28px">, I'm Mohamad Hosein Mohseni
 
-## 👨‍💻 About me
+## <img src="./icon/icons8-about-me-96.png" width="28px"> About me
 
 Hello! I'm Mohammad Hosein (call me Masen😉), a passionate junior front-end developer and computer engineering student from Kerman Province in Iran. I love working on websites and build practical and beautiful UI/UX.
 
-#### 🌱 What I'm currently learning
+#### <img src="./icon/icons8-sprout-96.png" width="20px">  What I'm currently learning
 
 I'm currently learning git/github and planning to expand my abilities. I'm also intrested in AI and reading articles about it.
 
-#### 📱 Let's Connect
+#### <img src="" width=""> Let's Connect
 
 I am still junior and don't know much, but I learned basics very well. if you had any question or issue I'm glad to help.
 
@@ -22,7 +22,7 @@ I am still junior and don't know much, but I learned basics very well. if you ha
 
 Thanks for visiting my profile! 😊
 
-## 🛠️ Languages and Tools
+## <img src="" width=""> Languages and Tools
 
 <p align="center">
     <a href="https://code.visualstudio.com/"><img src="./icon/icons8-visual-studio-code-2019-100.png" width="48px"></a>
@@ -35,7 +35,7 @@ Thanks for visiting my profile! 😊
 
 <!-- ## 📖 Currently Learning ... -->
 
-## ⚡Account Stats
+## <img src="" width=""> Account Stats
 
 <p align="center">
 <a href="https://github.com/DevMasen">
