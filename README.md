@@ -12,10 +12,10 @@ I'm currently learning git/github and planning to expand my abilities. I'm also 
 
 I am still junior and don't know much, but I learned basics very well. if you had any question or issue I'm glad to help.
 
-<p align="left" style="display:flex;gap:20px;">
-    <a href="https://www.instagram.com/dev_masen/"><img src="./icon/instagram.svg" width="30px"></a>
-    <a href="https://www.linkedin.com/in/m-hossein-mohseni-794a062bb"><img src="./icon/linked-in.svg" width="30px"></a>
-    <a href="https://t.me/Ma3eN_M"><img src="./icon/telegram.svg" width="30px"></a>
+<p align="left">
+    <a href="https://www.instagram.com/dev_masen/"><img src="./icon/instagram.svg" width="30px"></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/m-hossein-mohseni-794a062bb"><img src="./icon/linked-in.svg" width="30px"></a> &nbsp;&nbsp;&nbsp;
+    <a href="https://t.me/Ma3eN_M"><img src="./icon/telegram.svg" width="30px"></a> &nbsp;&nbsp;&nbsp;
 </p>
 
 </br>
