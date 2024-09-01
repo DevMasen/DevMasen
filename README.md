@@ -1,8 +1,15 @@
- # Hey There <img src="./gif/shaking-hand.gif" width="28px">, I'm Mohamad Hosein Mohseni
+
+ 
+# Hey There <img src="./gif/shaking-hand.gif" width="28px">, I'm Mohamad Hosein Mohseni 
+
 
 >## <img src="./icon/icons8-info-96.png" width="26px"> About me
 
 Hello! I'm Mohammad Hosein (call me Masen😉), a passionate junior front-end developer and computer engineering student from Kerman Province in Iran. I love working on websites and build practical and beautiful UI/UX.
+
+<p align="center">
+<img src="./gif/giphy.webp" width="140px">
+</p>
 
 #### 🌱 What I'm currently learning
 
