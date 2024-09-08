@@ -35,6 +35,7 @@ Thanks for visiting my profile! 😊
     <a href="https://javascript.info/"><img src="./icon/icons8-javascript-96.png" width="48px" alt="javascript logo"></a>
     <a href="https://git-scm.com/"><img src="./icon/icons8-git-96.png" width="48px" alt="git logo"></a>
     <a href="https://github.com/"><img src="./icon/icons8-github-96.png" width="48px" alt="github logo"></a>
+    <a href="https://www.npmjs.com/"><img src="./icon/npm-logo.png" width="48px" alt="npm logo"></a>
 </p>
 
 <!-- ## 📖 Currently Learning ... -->
