@@ -36,10 +36,11 @@ Thanks for visiting my profile! 😊
     <a href="https://git-scm.com/"><img src="./icon/icons8-git-96.png" width="48px" alt="git logo"></a> &nbsp;&nbsp;
     <a href="https://github.com/"><img src="./icon/icons8-github-96.png" width="48px" alt="github logo"></a> &nbsp;&nbsp;
     <a href="https://www.npmjs.com/"><img src="./icon/npm-logo.png" width="48px" alt="npm logo"></a> &nbsp;&nbsp;
+    <a href="https://react.dev"><img src="./icon/icons8-react-100.png" width="48px" alt="react logo"></a> &nbsp;&nbsp;
 </p>
 
 <!-- ## 📖 Currently Learning ... -->
-
+<!--
 > ## <img src="./icon/icons8-stats-64.png" width="26px" alt="stat icon"> Account Stats
 
 <p align="center">
@@ -52,3 +53,4 @@ Thanks for visiting my profile! 😊
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMasen&layout=pie&theme=dark" alt="stats">
 </a>
 </p>
+-->
