@@ -1,20 +1,63 @@
+<div align="center" >
+    <img src="./gif/banner.gif" alt="Banner Image"/>
+</div>
+
+<br/>
+
 # Hey There <img src="./gif/shaking-hand.gif" width="28px" alt="shaking hand imogi">, I'm Mohamad Hosein Mohseni
 
-> ## <img src="./icon/icons8-info-96.png" width="26px" alt="info icon"> About me
+> ## ℹ️ About Me
 
-Hello! I'm Mohammad Hosein (call me Masen😉), a passionate junior front-end developer and computer engineering student from Kerman Province in Iran. I love working on websites and build practical and beautiful UI/UX.
+👋 Hi, I'm Masen
 
-<p align="center">
-<img src="./gif/giphy.webp" width="140px" alt="coding monkey gif">
-</p>
+💻 Front-End Developer | 🎓 Computer Engineering Student  
+📍 Kerman Province, Iran
 
-#### 🌱 What I'm currently learning
+I build responsive, user-focused web interfaces that are both functional and visually refined.  
+My goal is simple: turn ideas into clean, interactive, and scalable web experiences.
 
-I'm currently learning react library and planning to expand my abilities.
+---
 
-#### 📱 Let's Connect
+> ## 🚀 What I Do
 
-I am still junior and don't know much, but I learned basics very well. if you had any question or issue I'm glad to help.
+- Build modern, responsive web applications using HTML, CSS, JavaScript, and React
+
+- Develop scalable front-end architectures using React Router, Context API, Redux, TailwindCSS, ...
+
+- Manage client-side state effectively (local & global state management)
+
+- Focus on performance optimization and reusable component design
+
+- Translate UI/UX concepts into interactive, maintainable interfaces
+
+---
+
+> ## 📌 Current Focus
+
+- Deepening my knowledge of the React ecosystem
+
+- Mastering advanced state management patterns
+
+- Building production-ready React projects
+
+- Improving code structure, scalability, and maintainability
+
+- Learning best practices in frontend architecture
+
+---
+
+> ## 🌱 Philosophy
+
+- Build components, not pages.
+- Think in systems, not screens.
+- Write code that scales.
+
+---
+
+> ## 📫 Let’s Connect
+
+If you’re interested in collaboration, learning together, or discussing web development, feel free to explore my repositories or reach out.  
+Click platforms below 👇
 
 <p align="left">
     <a href="https://www.instagram.com/dev_masen/"><img src="./icon/instagram.svg" width="30px" alt="instagram logo"></a> &nbsp;&nbsp;&nbsp;
@@ -22,35 +65,34 @@ I am still junior and don't know much, but I learned basics very well. if you ha
     <a href="https://t.me/Ma3eN_M"><img src="./icon/telegram.svg" width="30px" alt="telegram logo"></a> &nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
-Thanks for visiting my profile! 😊
+> ## 🛠️ Tech Stack
 
-> ## <img src="./icon/icons8-tools-96.png" width="26px" alt="tools icon"> Languages and Tools
+<div align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vscode,html,css,js,npm,git,github,powershell,vite,react,redux,tailwind&theme=dark" alt="GitHub Streak"/>
+    </a>
+    <!-- styledcomponents,  -->
+</div>
 
-<p align="center">
-    <a href="https://code.visualstudio.com/"><img src="./icon/icons8-visual-studio-code-2019-100.png" width="48px" alt="vscode logo"></a> &nbsp;&nbsp;
-    <a href="https://www.w3schools.com/html/"><img src="./icon/icons8-html-5-96.png" width="48px" alt="html logo"></a> &nbsp;&nbsp;
-    <a href="https://www.w3schools.com/css/"><img src="./icon/icons8-css3-96.png" width="48px" alt="css logo"></a> &nbsp;&nbsp;
-    <a href="https://javascript.info/"><img src="./icon/icons8-javascript-96.png" width="48px" alt="javascript logo"></a> &nbsp;&nbsp;
-    <a href="https://git-scm.com/"><img src="./icon/icons8-git-96.png" width="48px" alt="git logo"></a> &nbsp;&nbsp;
-    <a href="https://github.com/"><img src="./icon/icons8-github-96.png" width="48px" alt="github logo"></a> &nbsp;&nbsp;
-    <a href="https://www.npmjs.com/"><img src="./icon/npm-logo.png" width="48px" alt="npm logo"></a> &nbsp;&nbsp;
-    <a href="https://react.dev"><img src="./icon/icons8-react-100.png" width="48px" alt="react logo"></a> &nbsp;&nbsp;
-</p>
+---
 
-<!-- ## 📖 Currently Learning ... -->
-<!--
-> ## <img src="./icon/icons8-stats-64.png" width="26px" alt="stat icon"> Account Stats
+> ## 📊 Account Stats
 
 <p align="center">
-<a href="https://github.com/DevMasen">
-<img src="https://github-readme-stats.vercel.app/api?username=DevMasen&hide=stars&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
-</a>
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=DevMasen&theme=highcontrast&hide_border=true&border_radius=25&card_width=600&card_height=250" alt="GitHub Streak"/>
+    </a>
 </p>
-<p align="center">
-<a href="https://github.com/DevMasen">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMasen&layout=pie&theme=dark" alt="stats">
-</a>
-</p>
--->
+
+---
+
+<div align="center">
+<h3>
+👋 Thanks for visiting my profile 😊♥️
+
+⭐ Check out my pinned projects below 👇
+
+</h3>
+</div>
