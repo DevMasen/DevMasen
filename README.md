@@ -71,7 +71,7 @@ Click platforms below 👇
 
 <div align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=vscode,html,css,js,npm,git,github,powershell,vite,react,redux,tailwind&theme=dark" alt="GitHub Streak"/>
+        <img src="https://skillicons.dev/icons?i=vscode,html,css,js,npm,git,github,powershell,vite,react,redux,tailwind,styledcomponents,supabase&theme=dark" alt="GitHub Streak"/>
     </a>
 </div>
 
